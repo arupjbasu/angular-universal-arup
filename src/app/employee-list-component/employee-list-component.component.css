@@ -6,11 +6,11 @@ table {
 }
 
 td {
-    border: 1px solid #369;
+    border: 4px solid rgb(51, 153, 68);
     padding:5px;
 }
 
 th{
-    border: 1px solid #369;
+    border: 5px solid rgb(153, 51, 76);
     padding:5px;
 }
